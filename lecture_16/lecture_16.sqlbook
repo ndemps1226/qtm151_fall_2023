@@ -166,6 +166,8 @@ ORDER BY victories ASC;
 SELECT * FROM drivers
 ORDER BY victories DESC;
 -- SQLBook: Markup
+
+-- SQLBook: Markup
 <font size = "5">
 
 <span style="color:red"> Common pitfall: </span> Remember to use single quotes!
