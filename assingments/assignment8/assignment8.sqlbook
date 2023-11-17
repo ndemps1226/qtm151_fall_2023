@@ -7,13 +7,19 @@
 Add a comment with your Emory ID below
 -- SQLBook: Code
 -- Write your own code
-
+-- 2516610
 -- SQLBook: Markup
 <font size = "5">
 
 (a) Create a new SQL database called formula1
 -- SQLBook: Code
+-- Active: 1698696249274@@127.0.0.1@5432@formula1
 -- Write your own code
+DROP DATABASE formula1;
+
+CREATE DATABASE formula1;
+
+-- SQLBook: Code
 
 -- SQLBook: Markup
 
